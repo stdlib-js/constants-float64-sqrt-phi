@@ -20,7 +20,7 @@ limitations under the License.
 
 # Square Root of the Golden Ratio
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Square root of the [Golden ratio][@stdlib/constants/float64/phi] (φ).
 
@@ -82,7 +82,7 @@ console.log( SQRT_PHI );
 
 ## See Also
 
--   [`@stdlib/constants/float64/phi`][@stdlib/constants/float64/phi]: golden ratio.
+-   <span class="package-name">[`@stdlib/constants/float64/phi`][@stdlib/constants/float64/phi]</span><span class="delimiter">: </span><span class="description">golden ratio.</span>
 
 </section>
 
@@ -133,8 +133,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float64-sqrt-phi/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float64-sqrt-phi?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float64-sqrt-phi.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float64-sqrt-phi/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
