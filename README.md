@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@esm/index.mjs';
+import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@v0.0.8-esm/index.mjs';
 ```
 
 #### SQRT_PHI
@@ -61,7 +61,7 @@ var bool = ( SQRT_PHI === 1.272019649514069 );
 <body>
 <script type="module">
 
-import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@esm/index.mjs';
+import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@v0.0.8-esm/index.mjs';
 
 console.log( SQRT_PHI );
 // => 1.272019649514069
