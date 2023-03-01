@@ -144,7 +144,7 @@ Macro for the square root of the [golden ratio][@stdlib/constants/float64/phi].
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/phi`][@stdlib/constants/float64/phi]</span><span class="delimiter">: </span><span class="description">golden ratio.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/phi`][@stdlib/constants/float64/phi]</span><span class="delimiter">: </span><span class="description">golden ratio.</span>
 
 </section>
 
