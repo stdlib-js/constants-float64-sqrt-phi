@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@deno/mod.js';
+import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@v0.2.3-deno/mod.js';
 ```
 
 #### SQRT_PHI
@@ -67,7 +67,7 @@ var bool = ( SQRT_PHI === 1.272019649514069 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@deno/mod.js';
+import SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-phi@v0.2.3-deno/mod.js';
 
 console.log( SQRT_PHI );
 // => 1.272019649514069
